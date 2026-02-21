@@ -1,5 +1,5 @@
 
-# Hi, I'm [mercy ngatho]
+# Hi, I'm mercy ngatho
 
 ## About Me
 - I'm currently learning AI at we can academy.
