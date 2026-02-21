@@ -1,16 +1,18 @@
-## Hi there 👋
 
-<!--
-**mylneas1/mylneas1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm [mercy ngatho]
 
-Here are some ideas to get you started:
+## About Me
+- I'm currently learning [AI at we can academy].
+- I'm interested in [computer operations and ai].
+- I'm looking to collaborate on [actively engaging projects].
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills I'm Building
+- Git and GitHub
+- [python,java script,computer operations]
+
+## Current Projects
+- [mali fresh](link) — delivery website
+
+## How to Reach Me
+- Email: [mercyngatho505@gmail.com]
+- LinkedIn: [[your LinkedIn profile link](https://www.linkedin.com/in/mlyne-graphics-a23a10349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]
