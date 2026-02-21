@@ -2,13 +2,13 @@
 # Hi, I'm [mercy ngatho]
 
 ## About Me
-- I'm currently learning [AI at we can academy].
-- I'm interested in [computer operations and ai].
-- I'm looking to collaborate on [actively engaging projects].
+- I'm currently learning AI at we can academy.
+- I'm interested in computer operations and ai.
+- I'm looking to collaborate on actively engaging projects.
 
 ## Skills I'm Building
 - Git and GitHub
-- [python,java script,computer operations]
+- python,java script,computer operations
 
 ## Current Projects
 - [mali fresh](link) — delivery website
